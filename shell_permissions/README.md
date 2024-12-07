@@ -4,3 +4,5 @@ changes the user to betty
 tells the user his name on the terminal
 4-empty
 creates an empty file called hello
+5-execute
+changes the permission on a file called hello to be excutable
